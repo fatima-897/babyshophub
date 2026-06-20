@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685340923181",
+    "project_id": "babyshophub-5b7f1",
+    "storage_bucket": "babyshophub-5b7f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685340923181:android:819330b3416c74122f6fa4",
+        "android_client_info": {
+          "package_name": "com.example.babyshophub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGuk37DETrNQ1DxSMEO6-yKcNQTGPPp_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
